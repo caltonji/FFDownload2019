@@ -1,0 +1,842 @@
+{
+    "N2JIE6BQOZMTUZEGR2DSPD47TA": {
+        "2009": {
+            "team": "Addai Another Day",
+            "nickname": "Cammy Adams",
+            "email": "cam6567@yahoo.com",
+            "rank": 1,
+            "points": 1327
+        }
+    },
+    "MWONHRP4FDXRQGFPEWOORGUW2U": {
+        "2009": {
+            "team": "Team ZoomBlade",
+            "nickname": "Ben",
+            "email": "NA",
+            "rank": 2,
+            "points": 1366
+        }
+    },
+    "MCG3DZCD2IM4SRRP63HIO37CUQ": {
+        "2009": {
+            "team": "Da Diablos",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 3,
+            "points": 1262
+        },
+        "2010": {
+            "team": "Make it Wayne",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 9,
+            "points": 1298.7
+        },
+        "2011": {
+            "team": "Starfox",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 2,
+            "points": 1977.22
+        },
+        "2012": {
+            "team": "JKB All-Stars",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 2,
+            "points": 1469.59
+        },
+        "2013": {
+            "team": "The Wizards",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 5,
+            "points": 1544.06
+        },
+        "2014": {
+            "team": "Bottom Bitches",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 9,
+            "points": 1519.76
+        },
+        "2015": {
+            "team": "Bottom Bitches",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 1,
+            "points": 1778.04
+        },
+        "2016": {
+            "team": "Bottom Bitches",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 1,
+            "points": 1794.18
+        },
+        "2017": {
+            "team": "Bottom Bitches",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 1,
+            "points": 1650.71
+        },
+        "2018": {
+            "team": "Bottom Bitches",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 4,
+            "points": 1782.67
+        },
+        "2019": {
+            "team": "Bottom Bitches",
+            "nickname": "Justin B",
+            "email": "jbusiel@yahoo.com",
+            "rank": 7,
+            "points": 1621.31
+        }
+    },
+    "QGOQOWI7OTJEJ3VZ5LYHYJJ6BU": {
+        "2009": {
+            "team": "YMCA",
+            "nickname": "Robert S",
+            "email": "tenster@sbcglobal.net",
+            "rank": 4,
+            "points": 1203
+        },
+        "2010": {
+            "team": "Snozzzberries",
+            "nickname": "Robert S",
+            "email": "tenster@sbcglobal.net",
+            "rank": 3,
+            "points": 1363.72
+        },
+        "2011": {
+            "team": "Snozzzberries",
+            "nickname": "Robert S",
+            "email": "tenster@sbcglobal.net",
+            "rank": 1,
+            "points": 1657.72
+        },
+        "2012": {
+            "team": "Prestige Worldwide",
+            "nickname": "Robert S",
+            "email": "tenster@sbcglobal.net",
+            "rank": 10,
+            "points": 1507.72
+        },
+        "2013": {
+            "team": "J'Dinkalage Morgoone",
+            "nickname": "Robert S",
+            "email": "tenster@sbcglobal.net",
+            "rank": 2,
+            "points": 1585.41
+        },
+        "2014": {
+            "team": "Big Bo",
+            "nickname": "Robert S",
+            "email": "tenster@sbcglobal.net",
+            "rank": 1,
+            "points": 1619.74
+        },
+        "2015": {
+            "team": "Sex Panther",
+            "nickname": "Robert S",
+            "email": "tenster@sbcglobal.net",
+            "rank": 4,
+            "points": 1767.81
+        },
+        "2016": {
+            "team": "The Real Slim Shady",
+            "nickname": "Robert S",
+            "email": "tenster@sbcglobal.net",
+            "rank": 5,
+            "points": 1476.57
+        }
+    },
+    "JWEOLZXJOALR6STDV5FUGVHP5A": {
+        "2009": {
+            "team": "Redemption",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 5,
+            "points": 1219
+        },
+        "2010": {
+            "team": "Charles in Charge",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 10,
+            "points": 1380.88
+        },
+        "2011": {
+            "team": "Juicy Contradiction",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 8,
+            "points": 1605.32
+        },
+        "2012": {
+            "team": "Scorgasmic Champions",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 6,
+            "points": 1540.74
+        },
+        "2013": {
+            "team": "Upper Deckers",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 1,
+            "points": 1642.63
+        },
+        "2014": {
+            "team": "Aryan",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 3,
+            "points": 1602.91
+        },
+        "2015": {
+            "team": "Billy Zane",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 8,
+            "points": 1549.53
+        },
+        "2016": {
+            "team": "Brick Tamland",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 9,
+            "points": 1607.46
+        },
+        "2017": {
+            "team": "Shooter McGavin",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 6,
+            "points": 1557.71
+        },
+        "2018": {
+            "team": "Dieter Von Cunth",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 10,
+            "points": 1606.14
+        },
+        "2019": {
+            "team": "Hareem Kunt",
+            "nickname": "Paul Masini",
+            "email": "gbstitians360@yahoo.com",
+            "rank": 5,
+            "points": 1781.85
+        }
+    },
+    "6PKXUMNCZ6JR35Z6A7LNN6YV3Q": {
+        "2009": {
+            "team": "Big and Black",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 6,
+            "points": 1307
+        },
+        "2011": {
+            "team": "Lieutenant Dan",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 7,
+            "points": 1574.68
+        },
+        "2012": {
+            "team": "Eggs Tyrone",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 9,
+            "points": 1475.6
+        },
+        "2013": {
+            "team": "WHAMMY!",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 6,
+            "points": 1567.32
+        },
+        "2014": {
+            "team": "Salt Burns",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 8,
+            "points": 1480.81
+        },
+        "2015": {
+            "team": "The Implication",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 2,
+            "points": 1693.87
+        },
+        "2016": {
+            "team": "Doogie Howser M.D.",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 6,
+            "points": 1580.79
+        },
+        "2017": {
+            "team": "Hike School",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 8,
+            "points": 1208.05
+        },
+        "2018": {
+            "team": "Hike School",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 5,
+            "points": 1733.34
+        },
+        "2019": {
+            "team": "Hike School",
+            "nickname": "J Remedy",
+            "email": "iowafan246@yahoo.com",
+            "rank": 2,
+            "points": 1818.43
+        }
+    },
+    "IQ6KDAM5IPE2I2RPZ4UK2BB25Q": {
+        "2009": {
+            "team": "Fiscal Jackhammer",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 7,
+            "points": 1264
+        },
+        "2010": {
+            "team": "goatzmytitz",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 7,
+            "points": 1315.8
+        },
+        "2011": {
+            "team": "MACGRUBER",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 4,
+            "points": 1712.84
+        },
+        "2012": {
+            "team": "Ramrod",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 8,
+            "points": 1528.51
+        },
+        "2013": {
+            "team": "Mugatu",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 9,
+            "points": 1511.37
+        },
+        "2014": {
+            "team": "Mistah Kitty",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 6,
+            "points": 1624.39
+        },
+        "2015": {
+            "team": "Forsett in ur mouth",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 7,
+            "points": 1623.23
+        },
+        "2016": {
+            "team": "Emperor Dong Sohung",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 3,
+            "points": 1682.75
+        },
+        "2017": {
+            "team": "Diane Choksondik",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 3,
+            "points": 1614.07
+        },
+        "2018": {
+            "team": "Locker Room Talk",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 2,
+            "points": 1753.87
+        },
+        "2019": {
+            "team": "Professor Teabag",
+            "nickname": "Miccyd",
+            "email": "miccydnestle@yahoo.com",
+            "rank": 1,
+            "points": 1982.57
+        }
+    },
+    "USPDCZGMMAAYVEBC2K3CLLNMUE": {
+        "2009": {
+            "team": "YAMAHA",
+            "nickname": "Matt",
+            "email": "bearsfansbxli07@yahoo.com",
+            "rank": 8,
+            "points": 1229
+        }
+    },
+    "EERDPUH5UHFEHU7JJJUUQITSYI": {
+        "2009": {
+            "team": "Leftys anonymous",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 9,
+            "points": 1147
+        },
+        "2010": {
+            "team": "fuck me",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 8,
+            "points": 1353.36
+        },
+        "2011": {
+            "team": "shitty wok",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 9,
+            "points": 1506.3
+        },
+        "2012": {
+            "team": "McNigglets",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 1,
+            "points": 1623.89
+        },
+        "2013": {
+            "team": "illuminati",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 8,
+            "points": 1448.01
+        },
+        "2014": {
+            "team": "Vinegar Strokes",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 4,
+            "points": 1558.79
+        },
+        "2015": {
+            "team": "The ZJ's",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 10,
+            "points": 1377.5
+        },
+        "2016": {
+            "team": "Member Berries",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 10,
+            "points": 1401.31
+        },
+        "2017": {
+            "team": "AntsInMyEyesJohnson",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 4,
+            "points": 1596.35
+        },
+        "2018": {
+            "team": "Mantis Toboggan MD",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 6,
+            "points": 1853.3
+        },
+        "2019": {
+            "team": "Burrito House",
+            "nickname": "Greg A",
+            "email": "famguyfann23@yahoo.com",
+            "rank": 8,
+            "points": 1580.91
+        }
+    },
+    "UE2M4456ALUSPKALCCSVWOAIUA": {
+        "2009": {
+            "team": "Jdizzles",
+            "nickname": "Josh",
+            "email": "belkinboy2006@yahoo.com",
+            "rank": 10,
+            "points": 1045
+        }
+    },
+    "7PCCCNLTBVG4E7Z3PYQ52OHJWM": {
+        "2009": {
+            "team": "BEAST MODE",
+            "nickname": "Josh Arenson",
+            "email": "airmail265@yahoo.com",
+            "rank": 11,
+            "points": 997
+        }
+    },
+    "IYYZECV4YYWC3AQYEQPY3VSN6M": {
+        "2009": {
+            "team": "CCCP",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 12,
+            "points": 910
+        },
+        "2010": {
+            "team": "Die BuseBaby",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 1,
+            "points": 1348
+        },
+        "2011": {
+            "team": "Meerkat Plunder",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 10,
+            "points": 1484.44
+        },
+        "2012": {
+            "team": "Glenview Police Dept",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 3,
+            "points": 1544.9
+        },
+        "2013": {
+            "team": "FC Finland",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 7,
+            "points": 1526.3
+        },
+        "2014": {
+            "team": "Evanston Jr Wildkits",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 10,
+            "points": 1466.19
+        },
+        "2015": {
+            "team": "Atlanta Celebrities",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 9,
+            "points": 1505.27
+        },
+        "2016": {
+            "team": "Grandpa's Place",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 7,
+            "points": 1374.22
+        },
+        "2017": {
+            "team": "Paul Masini",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 9,
+            "points": 1361.33
+        },
+        "2018": {
+            "team": "Jesse White Tumblers",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 3,
+            "points": 1665.21
+        },
+        "2019": {
+            "team": "1503 Sequoia Trail",
+            "nickname": "Chris A",
+            "email": "caltonji94@yahoo.com",
+            "rank": 10,
+            "points": 1688.52
+        }
+    },
+    "DICXXLAU6F4RQ7SCTZGJEQPL6Y": {
+        "2010": {
+            "team": "Suck My Ditka",
+            "nickname": "Theodore",
+            "email": "bigsmiledental@sbcglobal.net",
+            "rank": 2,
+            "points": 1480.38
+        }
+    },
+    "7QQ32YDM4HOKTDTUJ4O2ICS75E": {
+        "2010": {
+            "team": "EWOKS=DA SHIT",
+            "nickname": "Brandon",
+            "email": "lucaribrandon@yahoo.com",
+            "rank": 4,
+            "points": 1432.6
+        },
+        "2011": {
+            "team": "Juggalo",
+            "nickname": "Brandon",
+            "email": "lucaribrandon@yahoo.com",
+            "rank": 3,
+            "points": 1606.6
+        },
+        "2012": {
+            "team": "The Flying Sloths",
+            "nickname": "Brandon",
+            "email": "lucaribrandon@yahoo.com",
+            "rank": 7,
+            "points": 1597
+        },
+        "2013": {
+            "team": "¿Tienes Sed?",
+            "nickname": "Brandon",
+            "email": "lucaribrandon@yahoo.com",
+            "rank": 4,
+            "points": 1718.72
+        }
+    },
+    "--": {
+        "2010": {
+            "team": "coco",
+            "nickname": "--hidden--",
+            "email": "--hidden--",
+            "rank": 5,
+            "points": 1395.96
+        },
+        "2011": {
+            "team": "coco",
+            "nickname": "--hidden--",
+            "email": "--hidden--",
+            "rank": 5,
+            "points": 1620.98
+        }
+    },
+    "FPG4MIYGLHY33TE5IS4AP7M4D4": {
+        "2010": {
+            "team": "EWOKS=DA SHlT",
+            "nickname": "Artie",
+            "email": "arteeb123@yahoo.com",
+            "rank": 6,
+            "points": 1442.24
+        }
+    },
+    "POSULB4EJLW4F6G6ZMJDPTIWUU": {
+        "2010": {
+            "team": "forsettdownherthroat",
+            "nickname": "Corey",
+            "email": "hoosiercrazy848@yahoo.com",
+            "rank": 11,
+            "points": 1398.56
+        }
+    },
+    "CZ7BILPSQHVRV3G6DMPBYUXR7E": {
+        "2010": {
+            "team": "Butter Beards",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 12,
+            "points": 1290.64
+        },
+        "2011": {
+            "team": "Lil Minion",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 6,
+            "points": 1434.94
+        },
+        "2012": {
+            "team": "Chazz M. Michaels",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 5,
+            "points": 1601.15
+        },
+        "2013": {
+            "team": "Samwise Gamgee",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 10,
+            "points": 1558.94
+        },
+        "2014": {
+            "team": "Team USA",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 7,
+            "points": 1555.03
+        },
+        "2015": {
+            "team": "Rand University",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 6,
+            "points": 1724.13
+        },
+        "2016": {
+            "team": "Rand University",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 8,
+            "points": 1654.24
+        },
+        "2017": {
+            "team": "Pepper Brooks",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 2,
+            "points": 1679
+        },
+        "2018": {
+            "team": "Pepper Brooks",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 9,
+            "points": 1616.02
+        },
+        "2019": {
+            "team": "Pepper Brooks",
+            "nickname": "Sam",
+            "email": "koloms24@yahoo.com",
+            "rank": 9,
+            "points": 1636.13
+        }
+    },
+    "HL63GFVZHV23DRNQM2I6EA3D24": {
+        "2012": {
+            "team": "yellow fellow",
+            "nickname": "Simon Kim",
+            "email": "simon.kim09@yahoo.com",
+            "rank": 4,
+            "points": 1596.34
+        },
+        "2013": {
+            "team": "Yakuza",
+            "nickname": "Simon Kim",
+            "email": "simon.kim09@yahoo.com",
+            "rank": 3,
+            "points": 1763.58
+        },
+        "2014": {
+            "team": "Banger Nation",
+            "nickname": "Simon Kim",
+            "email": "simon.kim09@yahoo.com",
+            "rank": 2,
+            "points": 1668.81
+        },
+        "2015": {
+            "team": "Fat Eddie",
+            "nickname": "Simon Kim",
+            "email": "simon.kim09@yahoo.com",
+            "rank": 3,
+            "points": 1992.04
+        },
+        "2016": {
+            "team": "Fat Eddie",
+            "nickname": "Simon Kim",
+            "email": "simon.kim09@yahoo.com",
+            "rank": 4,
+            "points": 1510.81
+        },
+        "2017": {
+            "team": "Adam Schefter",
+            "nickname": "Simon Kim",
+            "email": "simon.kim09@yahoo.com",
+            "rank": 7,
+            "points": 1463.19
+        },
+        "2018": {
+            "team": "Bless 'em",
+            "nickname": "Simon Kim",
+            "email": "NA",
+            "rank": 1,
+            "points": 1680.75
+        },
+        "2019": {
+            "team": "Champ",
+            "nickname": "Simon Kim",
+            "email": "NA",
+            "rank": 6,
+            "points": 1743.66
+        }
+    },
+    "5JQUSUGSFFCMSDUPMYBMZFAFNI": {
+        "2014": {
+            "team": "Oh Long Johnson",
+            "nickname": "Matt M",
+            "email": "millaman701@yahoo.com",
+            "rank": 5,
+            "points": 1592.78
+        },
+        "2015": {
+            "team": "Burt Macklin FBI",
+            "nickname": "Matt M",
+            "email": "millaman701@yahoo.com",
+            "rank": 5,
+            "points": 1630.43
+        },
+        "2016": {
+            "team": "Michael Bolton",
+            "nickname": "Matt M",
+            "email": "millaman701@yahoo.com",
+            "rank": 2,
+            "points": 1469.95
+        },
+        "2017": {
+            "team": "George Michael",
+            "nickname": "Matt M",
+            "email": "millaman701@yahoo.com",
+            "rank": 5,
+            "points": 1393.92
+        },
+        "2018": {
+            "team": "Hank Mardukas",
+            "nickname": "Matt M",
+            "email": "millaman701@yahoo.com",
+            "rank": 8,
+            "points": 1391.57
+        },
+        "2019": {
+            "team": "Salmon Sisters",
+            "nickname": "Matt M",
+            "email": "millaman701@yahoo.com",
+            "rank": 4,
+            "points": 1867.19
+        }
+    },
+    "PTZR2COMVV3KPCQUPWYUKHZEN4": {
+        "2017": {
+            "team": "ADRIAN",
+            "nickname": "Robert",
+            "email": "rosirianni3@gmail.com",
+            "rank": 10,
+            "points": 1349.48
+        },
+        "2018": {
+            "team": "Schwifty Business",
+            "nickname": "Robert",
+            "email": "rosirianni3@gmail.com",
+            "rank": 7,
+            "points": 1581.73
+        },
+        "2019": {
+            "team": "Bulgogi",
+            "nickname": "Robert",
+            "email": "rosirianni3@gmail.com",
+            "rank": 3,
+            "points": 1878.42
+        }
+    }
+}
