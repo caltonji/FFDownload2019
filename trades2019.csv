@@ -1,0 +1,8 @@
+trader_team_key,trader_team_name,tradee_team_key,tradee_team_name,trader_player_keys_received,trader_player_names_received,tradee_player_keys_received,tradee_player_names_received,trader_picks_received,tradee_picks_received,week_enacted,date
+390.l.99174.t.5,Salmon Sisters,390.l.99174.t.6,Hike School,"['390.p.29325', '390.p.31902']","['Jacoby Brissett', 'Darrell Henderson Jr.']","['390.p.30973', '390.p.31906']","['Sam Darnold', 'Devin Singletary']",[],[],9,2019-11-09 15:50:27
+390.l.99174.t.4,Hareem Kunt,390.l.99174.t.6,Hike School,"['390.p.31379', '390.p.9265']","['Phillip Lindsay', 'Matthew Stafford']","['390.p.31005', '390.p.29325']","['Nick Chubb', 'Jacoby Brissett']",[],[],9,2019-11-08 10:07:08
+390.l.99174.t.3,Bottom Bitches,390.l.99174.t.1,Professor Teabag,[],[],['390.p.29238'],['Ezekiel Elliott'],[3],[16],8,2019-11-06 19:10:57
+390.l.99174.t.5,Salmon Sisters,390.l.99174.t.3,Bottom Bitches,"['390.p.29315', '390.p.28691']","['Austin Hooper', 'Tyrell Williams']","['390.p.31010', '390.p.31012']","['Courtland Sutton', 'Mike Gesicki']",[],[],8,2019-11-06 18:17:05
+390.l.99174.t.9,Pepper Brooks,390.l.99174.t.1,Professor Teabag,"['390.p.30362', '390.p.27631', '390.p.24791']","['Chris Carson', 'Devonta Freeman', 'A.J. Green']","['390.p.30994', '390.p.30121', '390.p.30552']","['DJ Moore', 'Christian McCaffrey', 'Matt Breida']",[],[],8,2019-11-02 11:14:21
+390.l.99174.t.8,Burrito House,390.l.99174.t.5,Salmon Sisters,[],[],['390.p.29399'],['Tyreek Hill'],"[3, 11]","[13, 16]",8,2019-10-31 13:47:56
+390.l.99174.t.5,Salmon Sisters,390.l.99174.t.10,Bulgogi,"['390.p.30154', '390.p.31934']","['Dalvin Cook', 'Alexander Mattison']","['390.p.30161', '390.p.29279']","['Joe Mixon', 'Derrick Henry']",[],[],3,2019-09-26 15:38:55

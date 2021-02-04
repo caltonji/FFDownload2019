@@ -1,0 +1,153 @@
+week,is_playoffs,is_consolation,team_1_key,team_1_name,team_1_points,team_1_projected_points,is_bye,team_2_key,team_2_name,team_2_points,team_2_projected_points
+1,False,False,390.l.99174.t.1,Professor Teabag,184.26,149.72,False,390.l.99174.t.9,Pepper Brooks,135.74,142.64
+2,False,False,390.l.99174.t.1,Professor Teabag,121.24,152.38,False,390.l.99174.t.2,Champ,114.98,139.52
+3,False,False,390.l.99174.t.1,Professor Teabag,168.72,150.28,False,390.l.99174.t.3,Bottom Bitches,117.18,147.83
+4,False,False,390.l.99174.t.1,Professor Teabag,115.72,147.02,False,390.l.99174.t.6,Hike School,160.61,136.25
+5,False,False,390.l.99174.t.1,Professor Teabag,111.33,142.75,False,390.l.99174.t.4,Hareem Kunt,132.18,140.26
+6,False,False,390.l.99174.t.1,Professor Teabag,155.38,146.01,False,390.l.99174.t.2,Champ,83.83,127.61
+7,False,False,390.l.99174.t.1,Professor Teabag,141.56,152.34,False,390.l.99174.t.6,Hike School,102.74,126.25
+8,False,False,390.l.99174.t.1,Professor Teabag,136.05,141.69,False,390.l.99174.t.5,Salmon Sisters,133.80,138.98
+9,False,False,390.l.99174.t.1,Professor Teabag,166.56,145.84,False,390.l.99174.t.4,Hareem Kunt,96.75,127.93
+10,False,False,390.l.99174.t.1,Professor Teabag,144.58,157.58,False,390.l.99174.t.8,Burrito House,99.12,127.22
+11,False,False,390.l.99174.t.1,Professor Teabag,177.33,164.45,False,390.l.99174.t.9,Pepper Brooks,88.70,116.68
+12,False,False,390.l.99174.t.1,Professor Teabag,217.57,154.86,False,390.l.99174.t.7,1503 Sequoia Trail,95.48,131.90
+13,False,False,390.l.99174.t.1,Professor Teabag,142.27,164.33,False,390.l.99174.t.10,Bulgogi,111.90,147.76
+15,True,False,390.l.99174.t.1,Professor Teabag,225.73,163.54,False,390.l.99174.t.10,Bulgogi,171.43,135.46
+16,True,False,390.l.99174.t.1,Professor Teabag,161.17,165.23,False,390.l.99174.t.6,Hike School,101.53,141.25
+1,False,False,390.l.99174.t.2,Champ,176.42,136.92,False,390.l.99174.t.4,Hareem Kunt,144.79,148.21
+2,False,False,390.l.99174.t.2,Champ,114.98,139.52,False,390.l.99174.t.1,Professor Teabag,121.24,152.38
+3,False,False,390.l.99174.t.2,Champ,174.6,135.39,False,390.l.99174.t.9,Pepper Brooks,128.59,146.03
+4,False,False,390.l.99174.t.2,Champ,99.56,137.59,False,390.l.99174.t.10,Bulgogi,110.37,131.88
+5,False,False,390.l.99174.t.2,Champ,135.68,129.21,False,390.l.99174.t.5,Salmon Sisters,153.62,143.05
+6,False,False,390.l.99174.t.2,Champ,83.83,127.61,False,390.l.99174.t.1,Professor Teabag,155.38,146.01
+7,False,False,390.l.99174.t.2,Champ,171.95,138.12,False,390.l.99174.t.10,Bulgogi,128.79,139.35
+8,False,False,390.l.99174.t.2,Champ,139.17,139.39,False,390.l.99174.t.8,Burrito House,145.10,129.47
+9,False,False,390.l.99174.t.2,Champ,107.73,129.39,False,390.l.99174.t.5,Salmon Sisters,137.00,134.56
+10,False,False,390.l.99174.t.2,Champ,119.47,141.82,False,390.l.99174.t.3,Bottom Bitches,118.79,107.20
+11,False,False,390.l.99174.t.2,Champ,151.98,138.6,False,390.l.99174.t.4,Hareem Kunt,140.23,126.82
+12,False,False,390.l.99174.t.2,Champ,120.84,131.5,False,390.l.99174.t.6,Hike School,169.95,142.57
+13,False,False,390.l.99174.t.2,Champ,147.45,132.56,False,390.l.99174.t.7,1503 Sequoia Trail,130.10,127.76
+14,True,False,390.l.99174.t.2,Champ,98.36,128.12,False,390.l.99174.t.5,Salmon Sisters,131.64,145.38
+15,True,False,390.l.99174.t.2,Champ,131.14,135.98,False,390.l.99174.t.4,Hareem Kunt,147.52,120.74
+1,False,False,390.l.99174.t.3,Bottom Bitches,100.39,140.49,False,390.l.99174.t.10,Bulgogi,174.84,147.23
+2,False,False,390.l.99174.t.3,Bottom Bitches,154.73,147.88,False,390.l.99174.t.6,Hike School,118.38,126.24
+3,False,False,390.l.99174.t.3,Bottom Bitches,117.18,147.83,False,390.l.99174.t.1,Professor Teabag,168.72,150.28
+4,False,False,390.l.99174.t.3,Bottom Bitches,85.78,128.31,False,390.l.99174.t.4,Hareem Kunt,153.47,143.03
+5,False,False,390.l.99174.t.3,Bottom Bitches,129.64,131.78,False,390.l.99174.t.9,Pepper Brooks,149.90,131.58
+6,False,False,390.l.99174.t.3,Bottom Bitches,162.05,137.6,False,390.l.99174.t.8,Burrito House,114.97,137.19
+7,False,False,390.l.99174.t.3,Bottom Bitches,146.68,137.24,False,390.l.99174.t.4,Hareem Kunt,137.18,131.42
+8,False,False,390.l.99174.t.3,Bottom Bitches,137.19,130.06,False,390.l.99174.t.7,1503 Sequoia Trail,167.31,127.00
+9,False,False,390.l.99174.t.3,Bottom Bitches,104.83,128.4,False,390.l.99174.t.6,Hike School,163.34,136.73
+10,False,False,390.l.99174.t.3,Bottom Bitches,118.79,107.2,False,390.l.99174.t.2,Champ,119.47,141.82
+11,False,False,390.l.99174.t.3,Bottom Bitches,137.08,124.2,False,390.l.99174.t.10,Bulgogi,142.90,112.80
+12,False,False,390.l.99174.t.3,Bottom Bitches,104.0,129.74,False,390.l.99174.t.5,Salmon Sisters,118.68,133.90
+13,False,False,390.l.99174.t.3,Bottom Bitches,122.97,123.04,False,390.l.99174.t.8,Burrito House,93.87,125.55
+15,True,True,390.l.99174.t.3,Bottom Bitches,96.82,119.73,False,390.l.99174.t.7,1503 Sequoia Trail,75.47,130.33
+16,True,True,390.l.99174.t.3,Bottom Bitches,131.54,120.64,False,390.l.99174.t.8,Burrito House,112.76,132.79
+1,False,False,390.l.99174.t.4,Hareem Kunt,144.79,148.21,False,390.l.99174.t.2,Champ,176.42,136.92
+2,False,False,390.l.99174.t.4,Hareem Kunt,148.3,147.05,False,390.l.99174.t.7,1503 Sequoia Trail,124.04,137.99
+3,False,False,390.l.99174.t.4,Hareem Kunt,161.75,146.27,False,390.l.99174.t.8,Burrito House,138.37,147.71
+4,False,False,390.l.99174.t.4,Hareem Kunt,153.47,143.03,False,390.l.99174.t.3,Bottom Bitches,85.78,128.31
+5,False,False,390.l.99174.t.4,Hareem Kunt,132.18,140.26,False,390.l.99174.t.1,Professor Teabag,111.33,142.75
+6,False,False,390.l.99174.t.4,Hareem Kunt,169.69,138.09,False,390.l.99174.t.9,Pepper Brooks,111.00,136.41
+7,False,False,390.l.99174.t.4,Hareem Kunt,137.18,131.42,False,390.l.99174.t.3,Bottom Bitches,146.68,137.24
+8,False,False,390.l.99174.t.4,Hareem Kunt,134.4,133.67,False,390.l.99174.t.6,Hike School,113.64,124.29
+9,False,False,390.l.99174.t.4,Hareem Kunt,96.75,127.93,False,390.l.99174.t.1,Professor Teabag,166.56,145.84
+10,False,False,390.l.99174.t.4,Hareem Kunt,163.48,120.59,False,390.l.99174.t.10,Bulgogi,129.34,142.79
+11,False,False,390.l.99174.t.4,Hareem Kunt,140.23,126.82,False,390.l.99174.t.2,Champ,151.98,138.60
+12,False,False,390.l.99174.t.4,Hareem Kunt,85.37,108.66,False,390.l.99174.t.9,Pepper Brooks,87.72,121.95
+13,False,False,390.l.99174.t.4,Hareem Kunt,114.26,129.23,False,390.l.99174.t.5,Salmon Sisters,125.41,143.75
+14,True,False,390.l.99174.t.4,Hareem Kunt,152.18,126.69,False,390.l.99174.t.10,Bulgogi,161.58,142.38
+15,True,False,390.l.99174.t.4,Hareem Kunt,147.52,120.74,False,390.l.99174.t.2,Champ,131.14,135.98
+1,False,False,390.l.99174.t.5,Salmon Sisters,136.3,131.21,False,390.l.99174.t.7,1503 Sequoia Trail,114.37,139.86
+2,False,False,390.l.99174.t.5,Salmon Sisters,145.02,135.72,False,390.l.99174.t.9,Pepper Brooks,148.30,149.18
+3,False,False,390.l.99174.t.5,Salmon Sisters,160.07,135.79,False,390.l.99174.t.6,Hike School,136.12,125.89
+4,False,False,390.l.99174.t.5,Salmon Sisters,168.16,135.75,False,390.l.99174.t.8,Burrito House,122.53,134.93
+5,False,False,390.l.99174.t.5,Salmon Sisters,153.62,143.05,False,390.l.99174.t.2,Champ,135.68,129.21
+6,False,False,390.l.99174.t.5,Salmon Sisters,128.32,137.06,False,390.l.99174.t.10,Bulgogi,103.85,127.70
+7,False,False,390.l.99174.t.5,Salmon Sisters,176.16,135.42,False,390.l.99174.t.8,Burrito House,86.58,129.71
+8,False,False,390.l.99174.t.5,Salmon Sisters,133.8,138.98,False,390.l.99174.t.1,Professor Teabag,136.05,141.69
+9,False,False,390.l.99174.t.5,Salmon Sisters,137.0,134.56,False,390.l.99174.t.2,Champ,107.73,129.39
+10,False,False,390.l.99174.t.5,Salmon Sisters,175.81,135.63,False,390.l.99174.t.9,Pepper Brooks,154.63,127.04
+11,False,False,390.l.99174.t.5,Salmon Sisters,108.84,134.1,False,390.l.99174.t.7,1503 Sequoia Trail,124.37,115.39
+12,False,False,390.l.99174.t.5,Salmon Sisters,118.68,133.9,False,390.l.99174.t.3,Bottom Bitches,104.00,129.74
+13,False,False,390.l.99174.t.5,Salmon Sisters,125.41,143.75,False,390.l.99174.t.4,Hareem Kunt,114.26,129.23
+14,True,False,390.l.99174.t.5,Salmon Sisters,131.64,145.38,False,390.l.99174.t.2,Champ,98.36,128.12
+15,True,False,390.l.99174.t.5,Salmon Sisters,131.08,144.12,False,390.l.99174.t.6,Hike School,165.84,149.50
+16,True,False,390.l.99174.t.5,Salmon Sisters,147.94,137.39,False,390.l.99174.t.10,Bulgogi,179.74,131.91
+1,False,False,390.l.99174.t.6,Hike School,125.25,136.67,False,390.l.99174.t.8,Burrito House,98.77,152.54
+2,False,False,390.l.99174.t.6,Hike School,118.38,126.24,False,390.l.99174.t.3,Bottom Bitches,154.73,147.88
+3,False,False,390.l.99174.t.6,Hike School,136.12,125.89,False,390.l.99174.t.5,Salmon Sisters,160.07,135.79
+4,False,False,390.l.99174.t.6,Hike School,160.61,136.25,False,390.l.99174.t.1,Professor Teabag,115.72,147.02
+5,False,False,390.l.99174.t.6,Hike School,244.2,128.19,False,390.l.99174.t.10,Bulgogi,144.97,130.91
+6,False,False,390.l.99174.t.6,Hike School,147.47,137.0,False,390.l.99174.t.7,1503 Sequoia Trail,134.22,129.25
+7,False,False,390.l.99174.t.6,Hike School,102.74,126.25,False,390.l.99174.t.1,Professor Teabag,141.56,152.34
+8,False,False,390.l.99174.t.6,Hike School,113.64,124.29,False,390.l.99174.t.4,Hareem Kunt,134.40,133.67
+9,False,False,390.l.99174.t.6,Hike School,163.34,136.73,False,390.l.99174.t.3,Bottom Bitches,104.83,128.40
+10,False,False,390.l.99174.t.6,Hike School,147.77,127.03,False,390.l.99174.t.7,1503 Sequoia Trail,128.29,128.68
+11,False,False,390.l.99174.t.6,Hike School,99.82,131.89,False,390.l.99174.t.8,Burrito House,89.85,117.79
+12,False,False,390.l.99174.t.6,Hike School,169.95,142.57,False,390.l.99174.t.2,Champ,120.84,131.50
+13,False,False,390.l.99174.t.6,Hike School,89.14,139.92,False,390.l.99174.t.9,Pepper Brooks,163.90,130.88
+15,True,False,390.l.99174.t.6,Hike School,165.84,149.5,False,390.l.99174.t.5,Salmon Sisters,131.08,144.12
+16,True,False,390.l.99174.t.6,Hike School,101.53,141.25,False,390.l.99174.t.1,Professor Teabag,161.17,165.23
+1,False,False,390.l.99174.t.7,1503 Sequoia Trail,114.37,139.86,False,390.l.99174.t.5,Salmon Sisters,136.30,131.21
+2,False,False,390.l.99174.t.7,1503 Sequoia Trail,124.04,137.99,False,390.l.99174.t.4,Hareem Kunt,148.30,147.05
+3,False,False,390.l.99174.t.7,1503 Sequoia Trail,117.91,135.37,False,390.l.99174.t.10,Bulgogi,198.40,151.17
+4,False,False,390.l.99174.t.7,1503 Sequoia Trail,123.12,130.5,False,390.l.99174.t.9,Pepper Brooks,143.56,146.05
+5,False,False,390.l.99174.t.7,1503 Sequoia Trail,174.46,127.7,False,390.l.99174.t.8,Burrito House,166.90,131.25
+6,False,False,390.l.99174.t.7,1503 Sequoia Trail,134.22,129.25,False,390.l.99174.t.6,Hike School,147.47,137.00
+7,False,False,390.l.99174.t.7,1503 Sequoia Trail,144.25,129.54,False,390.l.99174.t.9,Pepper Brooks,74.85,123.56
+8,False,False,390.l.99174.t.7,1503 Sequoia Trail,167.31,127.0,False,390.l.99174.t.3,Bottom Bitches,137.19,130.06
+9,False,False,390.l.99174.t.7,1503 Sequoia Trail,110.6,134.86,False,390.l.99174.t.10,Bulgogi,197.93,149.14
+10,False,False,390.l.99174.t.7,1503 Sequoia Trail,128.29,128.68,False,390.l.99174.t.6,Hike School,147.77,127.03
+11,False,False,390.l.99174.t.7,1503 Sequoia Trail,124.37,115.39,False,390.l.99174.t.5,Salmon Sisters,108.84,134.10
+12,False,False,390.l.99174.t.7,1503 Sequoia Trail,95.48,131.9,False,390.l.99174.t.1,Professor Teabag,217.57,154.86
+13,False,False,390.l.99174.t.7,1503 Sequoia Trail,130.1,127.76,False,390.l.99174.t.2,Champ,147.45,132.56
+15,True,True,390.l.99174.t.7,1503 Sequoia Trail,75.47,130.33,False,390.l.99174.t.3,Bottom Bitches,96.82,119.73
+16,True,True,390.l.99174.t.7,1503 Sequoia Trail,117.6,131.91,False,390.l.99174.t.9,Pepper Brooks,156.01,132.15
+1,False,False,390.l.99174.t.8,Burrito House,98.77,152.54,False,390.l.99174.t.6,Hike School,125.25,136.67
+2,False,False,390.l.99174.t.8,Burrito House,102.85,141.85,False,390.l.99174.t.10,Bulgogi,139.38,144.93
+3,False,False,390.l.99174.t.8,Burrito House,138.37,147.71,False,390.l.99174.t.4,Hareem Kunt,161.75,146.27
+4,False,False,390.l.99174.t.8,Burrito House,122.53,134.93,False,390.l.99174.t.5,Salmon Sisters,168.16,135.75
+5,False,False,390.l.99174.t.8,Burrito House,166.9,131.25,False,390.l.99174.t.7,1503 Sequoia Trail,174.46,127.70
+6,False,False,390.l.99174.t.8,Burrito House,114.97,137.19,False,390.l.99174.t.3,Bottom Bitches,162.05,137.60
+7,False,False,390.l.99174.t.8,Burrito House,86.58,129.71,False,390.l.99174.t.5,Salmon Sisters,176.16,135.42
+8,False,False,390.l.99174.t.8,Burrito House,145.1,129.47,False,390.l.99174.t.2,Champ,139.17,139.39
+9,False,False,390.l.99174.t.8,Burrito House,176.63,116.31,False,390.l.99174.t.9,Pepper Brooks,110.83,119.74
+10,False,False,390.l.99174.t.8,Burrito House,99.12,127.22,False,390.l.99174.t.1,Professor Teabag,144.58,157.58
+11,False,False,390.l.99174.t.8,Burrito House,89.85,117.79,False,390.l.99174.t.6,Hike School,99.82,131.89
+12,False,False,390.l.99174.t.8,Burrito House,145.37,120.01,False,390.l.99174.t.10,Bulgogi,115.75,138.81
+13,False,False,390.l.99174.t.8,Burrito House,93.87,125.55,False,390.l.99174.t.3,Bottom Bitches,122.97,123.04
+15,True,True,390.l.99174.t.8,Burrito House,194.8,129.34,False,390.l.99174.t.9,Pepper Brooks,165.51,133.54
+16,True,True,390.l.99174.t.8,Burrito House,112.76,132.79,False,390.l.99174.t.3,Bottom Bitches,131.54,120.64
+1,False,False,390.l.99174.t.9,Pepper Brooks,135.74,142.64,False,390.l.99174.t.1,Professor Teabag,184.26,149.72
+2,False,False,390.l.99174.t.9,Pepper Brooks,148.3,149.18,False,390.l.99174.t.5,Salmon Sisters,145.02,135.72
+3,False,False,390.l.99174.t.9,Pepper Brooks,128.59,146.03,False,390.l.99174.t.2,Champ,174.60,135.39
+4,False,False,390.l.99174.t.9,Pepper Brooks,143.56,146.05,False,390.l.99174.t.7,1503 Sequoia Trail,123.12,130.50
+5,False,False,390.l.99174.t.9,Pepper Brooks,149.9,131.58,False,390.l.99174.t.3,Bottom Bitches,129.64,131.78
+6,False,False,390.l.99174.t.9,Pepper Brooks,111.0,136.41,False,390.l.99174.t.4,Hareem Kunt,169.69,138.09
+7,False,False,390.l.99174.t.9,Pepper Brooks,74.85,123.56,False,390.l.99174.t.7,1503 Sequoia Trail,144.25,129.54
+8,False,False,390.l.99174.t.9,Pepper Brooks,138.41,135.72,False,390.l.99174.t.10,Bulgogi,180.00,139.41
+9,False,False,390.l.99174.t.9,Pepper Brooks,110.83,119.74,False,390.l.99174.t.8,Burrito House,176.63,116.31
+10,False,False,390.l.99174.t.9,Pepper Brooks,154.63,127.04,False,390.l.99174.t.5,Salmon Sisters,175.81,135.63
+11,False,False,390.l.99174.t.9,Pepper Brooks,88.7,116.68,False,390.l.99174.t.1,Professor Teabag,177.33,164.45
+12,False,False,390.l.99174.t.9,Pepper Brooks,87.72,121.95,False,390.l.99174.t.4,Hareem Kunt,85.37,108.66
+13,False,False,390.l.99174.t.9,Pepper Brooks,163.9,130.88,False,390.l.99174.t.6,Hike School,89.14,139.92
+15,True,True,390.l.99174.t.9,Pepper Brooks,165.51,133.54,False,390.l.99174.t.8,Burrito House,194.80,129.34
+16,True,True,390.l.99174.t.9,Pepper Brooks,156.01,132.15,False,390.l.99174.t.7,1503 Sequoia Trail,117.60,131.91
+1,False,False,390.l.99174.t.10,Bulgogi,174.84,147.23,False,390.l.99174.t.3,Bottom Bitches,100.39,140.49
+2,False,False,390.l.99174.t.10,Bulgogi,139.38,144.93,False,390.l.99174.t.8,Burrito House,102.85,141.85
+3,False,False,390.l.99174.t.10,Bulgogi,198.4,151.17,False,390.l.99174.t.7,1503 Sequoia Trail,117.91,135.37
+4,False,False,390.l.99174.t.10,Bulgogi,110.37,131.88,False,390.l.99174.t.2,Champ,99.56,137.59
+5,False,False,390.l.99174.t.10,Bulgogi,144.97,130.91,False,390.l.99174.t.6,Hike School,244.20,128.19
+6,False,False,390.l.99174.t.10,Bulgogi,103.85,127.7,False,390.l.99174.t.5,Salmon Sisters,128.32,137.06
+7,False,False,390.l.99174.t.10,Bulgogi,128.79,139.35,False,390.l.99174.t.2,Champ,171.95,138.12
+8,False,False,390.l.99174.t.10,Bulgogi,180.0,139.41,False,390.l.99174.t.9,Pepper Brooks,138.41,135.72
+9,False,False,390.l.99174.t.10,Bulgogi,197.93,149.14,False,390.l.99174.t.7,1503 Sequoia Trail,110.60,134.86
+10,False,False,390.l.99174.t.10,Bulgogi,129.34,142.79,False,390.l.99174.t.4,Hareem Kunt,163.48,120.59
+11,False,False,390.l.99174.t.10,Bulgogi,142.9,112.8,False,390.l.99174.t.3,Bottom Bitches,137.08,124.20
+12,False,False,390.l.99174.t.10,Bulgogi,115.75,138.81,False,390.l.99174.t.8,Burrito House,145.37,120.01
+13,False,False,390.l.99174.t.10,Bulgogi,111.9,147.76,False,390.l.99174.t.1,Professor Teabag,142.27,164.33
+14,True,False,390.l.99174.t.10,Bulgogi,161.58,142.38,False,390.l.99174.t.4,Hareem Kunt,152.18,126.69
+15,True,False,390.l.99174.t.10,Bulgogi,171.43,135.46,False,390.l.99174.t.1,Professor Teabag,225.73,163.54
+16,True,False,390.l.99174.t.10,Bulgogi,179.74,131.91,False,390.l.99174.t.5,Salmon Sisters,147.94,137.39
